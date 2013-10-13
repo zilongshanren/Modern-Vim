@@ -13,8 +13,13 @@
 * 正文
   
 ** 视频教程
-***
+*** [[http://v.youku.com/v_show/id_XNjIwOTkyNDcy.html][如何学习vim]]
 
-* 结尾
+** 额外奉献
+
+*** [[http://v.youku.com/v_show/id_XNTA2ODQyODAw.html][如何打造属于自己的vim神器]]
+
+*** [[http://zilongshanren.com/blog/2013/01/15/vim-the-killer/][如何打造vim神器文章]]
+
   
 
