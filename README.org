@@ -13,7 +13,7 @@
 * 正文
   
 ** 视频教程
-*** [[http://v.youku.com/v_show/id_XNjIwOTkyNDcy.html][如何学习vim]]
+*** [[http://v.youku.com/v_show/id_XNjIxMTQ5Njgw.html][如何学习vim]]
 
 ** 额外奉献
 
