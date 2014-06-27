@@ -1,4 +1,4 @@
-* 前言
+http://4gamers.cn/archives/261* 前言
 
 ** 如何学习vim？
 
